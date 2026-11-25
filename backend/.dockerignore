@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+api
+worker
+*.exe
+node_modules
